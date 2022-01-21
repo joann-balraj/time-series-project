@@ -35,6 +35,7 @@
 <b>Planning:</b>  
 - Create a README file (check!)
 - Ensure my wrangle.py modules are well documents and functional
+- Link to my trello planning board: https://trello.com/invite/b/5ifN7CAH/94a29a2bc5711e4921c5241f570a6328/time-series-analysis-project
 
 <b>Acquisition </b>  
 - Gather earth surface temp data (.csv) from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data 
@@ -92,4 +93,3 @@ You will need to obtain the `GlobalLandTemperaturesByMajorCity.csv` file from ht
  3. Create a `.gitignore` for your `env.py` file.
  4. Add your own `env.py` file to your directory with username, password, and host address. 
  5. Run the `Final_Report.ipynb` in a jupyter notebook.
-# time-series-analysis-project
