@@ -92,3 +92,4 @@ You will need to obtain the `GlobalLandTemperaturesByMajorCity.csv` file from ht
  3. Create a `.gitignore` for your `env.py` file.
  4. Add your own `env.py` file to your directory with username, password, and host address. 
  5. Run the `Final_Report.ipynb` in a jupyter notebook.
+# time-series-analysis-project
