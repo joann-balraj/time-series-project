@@ -39,5 +39,7 @@ def get_data():
 # Prep Data Function:
 
 def prep_data(df):
+    '''
+    Converts df to datetime and sorts values and groups by average temperature'''
     return df.assign(ds = pd.to_datetime(df.dt)).sort_values('ds').\
             groupby(['ds'])[['AverageTemperature']].sum()
